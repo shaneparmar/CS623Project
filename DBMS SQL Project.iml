@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="src" level="application" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Jars and Drivers/jars/async-http-client-2.12.3.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/async-http-client-netty-utils-2.12.3.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/auto-common-1.1.2.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/auto-service-1.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/auto-service-annotations-1.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/byte-buddy-1.11.19.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/checker-qual-3.12.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/commons-exec-1.3.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/error_prone_annotations-2.7.1.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/failureaccess-1.0.1.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/guava-31.0.1-jre.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/j2objc-annotations-1.3.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/jakarta.activation-1.2.2.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/jcommander-1.81.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/jsr305-3.0.2.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/jtoml-2.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/netty-buffer-4.1.68.Final.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/netty-codec-4.1.68.Final.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/netty-codec-http-4.1.67.Final.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/netty-codec-socks-4.1.67.Final.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/netty-common-4.1.68.Final.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/netty-handler-4.1.68.Final.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/netty-handler-proxy-4.1.67.Final.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/netty-reactive-streams-2.0.4.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/netty-resolver-4.1.68.Final.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/netty-transport-4.1.68.Final.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/netty-transport-native-epoll-4.1.67.Final.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/netty-transport-native-kqueue-4.1.67.Final.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/netty-transport-native-unix-common-4.1.67.Final.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/opentelemetry-api-1.6.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/opentelemetry-api-metrics-1.6.0-alpha.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/opentelemetry-context-1.6.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/opentelemetry-exporter-logging-1.6.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/opentelemetry-sdk-1.6.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/opentelemetry-sdk-common-1.6.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/opentelemetry-sdk-extension-autoconfigure-1.6.0-alpha.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/opentelemetry-sdk-extension-autoconfigure-spi-1.6.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/opentelemetry-sdk-metrics-1.6.0-alpha.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/opentelemetry-sdk-trace-1.6.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/opentelemetry-semconv-1.6.0-alpha.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/reactive-streams-1.0.3.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-api-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-chrome-driver-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-chromium-driver-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-devtools-v85-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-devtools-v93-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-devtools-v94-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-devtools-v95-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-edge-driver-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-firefox-driver-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-firefox-xpi-driver-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-http-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-ie-driver-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-java-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-json-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-opera-driver-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-remote-driver-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-safari-driver-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-support-4.0.0.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/slf4j-api-1.7.32.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/testng-7.4.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://C:/Jars and Drivers/jars/selenium-api-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-chrome-driver-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-chromium-driver-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-devtools-v85-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-devtools-v93-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-devtools-v94-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-devtools-v95-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-edge-driver-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-firefox-driver-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-firefox-xpi-driver-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-http-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-ie-driver-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-json-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-opera-driver-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-remote-driver-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-safari-driver-4.0.0-sources.jar!/" />
+          <root url="jar://C:/Jars and Drivers/jars/selenium-support-4.0.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Jars and Drivers/jars/MySQL Java Connector/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://C:/Jars and Drivers/jars/PostgreSQL Java Connector" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://C:/Jars and Drivers/jars/PostgreSQL Java Connector" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
